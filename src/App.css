@@ -1,0 +1,24 @@
+.App {
+  background-color: lightblue;
+  min-height: 100vh;
+  padding-bottom: 20px;
+}
+
+.title1 {
+  text-align: center;
+  margin-top: 34px;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: hsl(216, 78%, 20%);
+}
+
+.title2 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+  color: hsl(216, 78%, 20%);
+  margin-top: 8px;
+  margin-bottom: 32px;
+}
